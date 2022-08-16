@@ -1,16 +1,17 @@
-### Hi there 👋
+# My current stack
 
-<!--
-**jbrischle/jbrischle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend: 
+- Angular 12/13/14
+- State Management: @ngxs / @ngneat/elf
+- Testing: Karma / Cypress
 
-Here are some ideas to get you started:
+## Backend:
+- Java
+- Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ops:
+- Azure (Cosmos DB, Event Hubs, ….)
+- Kubernetes
+- Docker Swarm
+- Gitlab & CI/CD
+

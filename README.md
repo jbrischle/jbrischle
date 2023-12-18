@@ -1,7 +1,7 @@
-# My current stack
+# Work stack
 
 ## Frontend: 
-- [Angular](https://angular.io/) 12/13/14/15
+- [Angular](https://angular.io/) 14/15/16
 - [Webpack](https://webpack.js.org/) & [ModuleFederation](https://webpack.js.org/concepts/module-federation/)
 - State Management: @ngxs / @ngneat/elf
 - Testing: Karma / Jest / Cypress
@@ -11,7 +11,7 @@
 - [Node.js](https://nodejs.org/en) ([NestJS](https://nestjs.com/))
 
 ## Ops:
-- Azure (Cosmos DB, Event Hubs, ….)
+- Azure (Cosmos DB, OpenAI, Event Hubs, Inisghts, ….)
 - Kubernetes
 - Docker Swarm
 - Gitlab & CI/CD
